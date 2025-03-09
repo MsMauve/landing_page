@@ -1,0 +1,1 @@
+This is gonna be my first attempt at a pretty static website! We'll see how it goes.

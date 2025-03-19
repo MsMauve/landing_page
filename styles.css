@@ -85,3 +85,19 @@ button {
     color: #E5E7EB;
     cursor: pointer;
 }
+
+/*TODO: rework corresponding HTML
+ to be imgs with captions?*/
+
+#info-box  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.info-images {
+    display: flex;
+    align-items: center;
+    padding: 0 15%;
+}
